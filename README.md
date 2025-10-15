@@ -1,22 +1,44 @@
-# HelloWorld
-なんでもできるようになりたい
+<div align="center">
 
-[私の紹介？](https://smisann.net/)
+# こんにちは、SmiSANNです 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmiSANN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### "なんでもできるようになりたい" という思いで、日々学習に励んでいます。
 
+</div>
 
-<!--
-**SmiSANN/SmiSANN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### 🌱 現在学習中のこと (What I'm learning)
+- Python (Web開発, データ分析)
+- C / C++
+- Webフロントエンド (HTML, CSS, JavaScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 興味・関心 (My interests)
+- ソフトウェアエンジニアリング
+- データサイエンス
+- 新しい技術全般
+
+### 📫 連絡先 (How to reach me)
+- Website: [smisann.net](https://smisann.net/)
+
+<br>
+
+### 🛠️ スキル (Skills)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+
+---
+
+### 📊 GitHub統計 (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmiSANN&show_icons=true&theme=dark&hide_border=true" alt="SmiSANN's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiSANN&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmiSANN&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
