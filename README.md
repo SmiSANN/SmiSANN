@@ -1,22 +1,24 @@
-# HelloWorld
-なんでもできるようになりたい
+<div align="center">
 
-[私の紹介？](https://smisann.net/)
+# Hello I'm Smi
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmiSANN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### "なんでもできるようになりたい"
+
+</div>
+
+<br>
 
 
-<!--
-**SmiSANN/SmiSANN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 ポートフォリオ (Portfolio)
+- Website: [me.smisann.net](https://me.smisann.net/)
 
-Here are some ideas to get you started:
+<br>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub統計 (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmiSANN&show_icons=true&theme=dark&hide_border=true" alt="SmiSANN's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiSANN&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmiSANN&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
